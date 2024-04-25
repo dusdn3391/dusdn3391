@@ -13,3 +13,7 @@ I'm Choi Yeonwoo, a frontend developer aspiring to become a full-stack developer
   <a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/></a>
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg" alt="vuejs" /></a>
   <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
+<p><img align="left" src="https://raw.githubusercontent.com/dusdn3391/yeonwoo-Choi/main/profile-summary-card-output/solarized/0-profile-details.svg" alt="dusdn3391" /></p>
+<p><img align="left" src="https://raw.githubusercontent.com/dusdn3391/yeonwoo-Choi/main/profile-summary-card-output/solarized/2-most-commit-language.svg" alt="dusdn3391" /></p>
+<p><img align="left" src="https://raw.githubusercontent.com/dusdn3391/yeonwoo-Choi/main/profile-summary-card-output/solarized/3-stats.svg" alt="dusdn3391" /></p>
+<p><img align="left" src="https://raw.githubusercontent.com/dusdn3391/yeonwoo-Choi/main/profile-summary-card-output/solarized/4-productive-time.svg" alt="dusdn3391" /></p>
