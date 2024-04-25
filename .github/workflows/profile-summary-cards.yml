@@ -18,4 +18,3 @@ jobs:
         with:
           USERNAME: ${{ github.repository_owner }}
 
-출처: https://ddukbaegi.tistory.com/87 [yujin's Brain:티스토리]
